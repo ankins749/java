@@ -2,7 +2,6 @@ package bd;
 
 import ev3.clases.Datos;
 import ev3.clases.Detallefact;
-import java.math.BigDecimal;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
